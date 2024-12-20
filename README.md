@@ -20,8 +20,8 @@
 
 - Firebase Authentication
 - Two type login system. Email/pass and google login.
-- User can post his/her blog our website
-- User can update own blogs
-- User can save favorites blog to wishlist
-- user can delete letter wishlist
+- User can post his/her blog our website.
+- User can update own blogs.
+- User can save favorites blog to wishlist.
+- user can delete letter wishlist.
 - Added photo viewer for user better experience.
