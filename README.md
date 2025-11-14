@@ -1,27 +1,37 @@
-# Blog website
+# Tech-client-side
 
-### This website about tech blog.
+## Overview  
+Tech-client-side is the frontend component of a full-stack polling & survey platform designed for admins, surveyors and end-users. It’s built using React.js, Next.js and TypeScript on the frontend, with a focus on responsive design, performance optimisation and seamless user experience.
 
-#### Live link our website
+## Live Demo  
+- <a href="https://rasel-blog-web.web.app/" target="_blank">Live Demo </a>
 
-### Link one
+## Key Features  
+- Role-based access: Admins, Surveyors and Users each have dedicated workflows.  
+- Survey Management: Surveyors can create, edit and manage surveys.  
+- Participation & History: Users can participate in surveys and view their response history.  
+- Data Visualisation: Charts and graphs present survey result analytics (using Recharts).  
+- Responsive UI: Mobile, tablet and desktop views are fully supported.  
+- Clean, maintainable UI built with Tailwind CSS and vanilla CSS.  
+- Performance-driven: Optimised using Web Vitals principles and code-splitting where appropriate.
 
-- <a href="https://rasel-blog-web.web.app/" target="_blank">https://rasel-blog-web.web.app/</a>
+## Tech Stack  
+- **Frontend:** Next.js, React.js, TypeScript  
+- **Styling:** Tailwind CSS, vanilla CSS  
+- **Visualisation:** Recharts  
+- **Backend (integrated):** Node.js, Express.js, MongoDB (NoSQL)  
+- **Build & Deployment:** [Add your choice – e.g. Vercel, Firebase Hosting]
 
-### Link Two
+## Getting Started  
+### Prerequisites  
+- Node.js (LTS) and npm installed  
+- Environment variables set (see `.env.example`)
 
-- <a href="https://b8a11-client-side-raselsharif.vercel.app/" target="_blank">https://b8a11-client-side-raselsharif.vercel.app/</a>
+### Installation  
+```bash
+git clone https://github.com/0xSafkat20/Tech-client-side.git
+cd Tech-client-side
+npm install
+```
 
-### Server side code:
 
-- <a href="https://github.com/raselsharif/programmingHero-assignment-11-server-side.git" target="_blank">Server code</a>
-
-### Features of our website
-
-- Firebase Authentication
-- Two type login system. Email/pass and google login.
-- User can post his/her blog our website.
-- User can update own blogs.
-- User can save favorites blog to wishlist.
-- user can delete letter wishlist.
-- Added photo viewer for user better experience.
